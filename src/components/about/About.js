@@ -99,7 +99,7 @@ export default function About() {
       <Terminal text={aboutMeText()} />
       <Terminal text={skillsText()} />
       <Terminal text={miscText()} />
-      <Button variant="contained" href="./Aamir_Nazeer.pdf" download="">Resume</Button>
+      <Button variant="contained" href="Aamir_Nazeer.pdf" download="">Resume</Button>
     </Box>
   );
 }
