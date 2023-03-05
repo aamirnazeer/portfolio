@@ -92,12 +92,12 @@ export const info = {
   },
   hobbies: [
     {
-      label: 'reading',
-      emoji: '📖',
+      label: 'gaming',
+      emoji: '🎮',
     },
     {
-      label: 'theater',
-      emoji: '🎭',
+      label: 'football',
+      emoji: '⚽',
     },
     {
       label: 'movies',
